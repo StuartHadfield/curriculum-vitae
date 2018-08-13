@@ -3,12 +3,15 @@
 * **Name**: Stuart Hadfield
 * **Location**: Cape Town, South Africa
 * **Email Address**: stuartdhadfield at gmail dot com
-* **ID No.**: 9410065021083
 * [Website](https://www.stuarthadfield.com) & [blog](https://stuarthadfield.github.io)
+* Software Engineer
+* University of Cape Town Electrical & Computer Engineering Graduate
+* Michaelhouse Old Boy
+* Delegate at the 2016 Brightest Young Minds Summit
 
 #### About me:
 
-In short, I'm an alumnus of the University of Cape Town, who studied Electrical and Computer Engineering before pursuing a career in software development. I'm a creative problem solver who enjoys a challenge.
+In short, I'm an alumnus of the University of Cape Town, who studied Electrical and Computer Engineering before pursuing a career in software development. I'm an old boy of Michaelhouse in the KwaZulu Natal Midlands, and a Zimbabwean expat. I'm a creative problem solver who enjoys a challenge, and I'm going to make a difference.
 
 #### Professional Career
 
