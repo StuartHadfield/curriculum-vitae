@@ -29,7 +29,7 @@ I am keen to work with technologies such as GoLang, Rust, and would like to furt
 
 ##### ZappiStore (2016-Present)
 
-I'm currently employed as a "full stack engineer" at ZappiStore, a London based tech company, in the business of automating market research, however, I spent most of my time involved with the backend, and in high level architectural design.  I was the second developer employed to have made meaningful contribution to all areas of the tech ecosystem, and did so in my first year of employment.
+I'm currently employed as a 'full stack engineer' at ZappiStore, a London based tech company, in the business of automating market research, however, I spent most of my time involved with the backend and in high level architectural design.  I was the second developer employed to have made meaningful contribution to all areas of the tech ecosystem, and did so in my first year of employment.
 
 ###### Roles + Responsibilities
 
@@ -47,7 +47,7 @@ I'm currently employed as a "full stack engineer" at ZappiStore, a London based 
 
 ##### Offerzen Make (2017-Present, Part Time)
 
-Occasionally, I act as a "Make Master", a developer coach if you will, for the Make Days hosted by OfferZen.  These are day-long courses on varying topics (AR, NLP, IoT) that help developers learn something new and encourage creativity.
+Occasionally, I act as a 'Make Master', a developer coach if you will, for the Make Days hosted by OfferZen.  These are day-long courses on varying topics (AR, NLP, IoT) that help developers learn something new and encourage creativity.
 
 ###### Roles + Responsibilities
 * **Make Master**:
@@ -93,7 +93,7 @@ I was taken on as a junior engineer on the AHRLAC project during its prototyping
 	- Code4CT, course facilitator focusing on teaching girls from underprivileged backgrounds the fundamentals of computer science.  This happened on an adhoc basis depending on the organization's needs.
 
 * **University of Cape Town**
-	- As a member of the surfing team/society, I performed outreach sessions every Friday/Saturday.  The aim of this was of course, to teach children from underprivileged backgrounds to surf, but moreover to discuss their aspirations, studying at university etc.
+	- As a member of the surfing team/society, I helped facilitate outreach sessions every Friday/Saturday.  The aim of this was of course, to teach children from underprivileged backgrounds to surf, but moreover to discuss their aspirations, studying at university etc.
 
 * **Michaelhouse**
 	- Peter Brown Award for Community Service: Endeavoured to provide a basic music department for one of the local rural schools.
@@ -111,23 +111,23 @@ I was taken on as a junior engineer on the AHRLAC project during its prototyping
 *(It's worth noting, many of these are still WIP)*
 
 - **Whismur**: 
-	- I built this because my mother was frustrated with the audio balance of David Attenborough's Planet Earth II (loud music, quiet narration).  It's an audio analysis library that attempts to classify a soundwave as music or speech using a variety of techniques:
+	- I built this because my mother was frustrated with the audio balance of David Attenborough's Planet Earth II (loud music, quiet narration).  It's an audio analysis library written in Python that attempts to classify a soundwave as music or speech using a variety of techniques:
 		* Feature extraction (Mel-frequency cepstrum, Zero-crossover, Spectrogram Analysis, Chromatic Analysis)
-		*  Classification, Training, Supervised Segmentation, Unsupervised Segmentation, Audio Regression Models
+		* K-NN Classification, Supervised Segmentation, Unsupervised Segmentation, Audio Regression Models
 	- Using a Raspberry Pi with a microphone + transmitter, it tries to adjust volume on the television in realtime based on the characteristics of the soundwaves emitted.
   	
 - **Theia**:
-	- This was an experiment in Machine Vision, that used a simple SVM and linear regression to perform realtime vehicle detection.
+	- This was an experiment in Machine Vision, that used a simple SVM and linear regression written in Python to perform realtime vehicle detection.
 
 - **Robbibot**:
-	- A learn-it-myself experiment when I was interested in ActionCable and its inner workings, I built a chatbot for Slack that connected to a Raspberry Pi in the coffee shop down the road, so I could order things from my slack.
+	- A learn-it-myself experiment when I was interested in ActionCable and its inner workings, I built a lightweight chatbot for Slack that connected to a Raspberry Pi in the coffee shop down the road, so I could order things from the coffee shop by chatting to the bot on slack. Written in Ruby.
 
 - **Mandala-Sphero**:
-	- An experiment in IoT, whereby a simple HTML5 Mandala-drawing canvas was provided, input from the user was published to an AWS topic, and then read by a Raspberry Pi, which controlled n-Spheros. The end goal is to do long-exposure/time-lapse aerial photography of the n-spheros developing a mandala that mimics the one the user drew.
+	- An experiment in IoT written in Javascript, whereby a simple HTML5 Mandala-drawing canvas was provided, input from the user was published to an AWS topic, and then read by a Raspberry Pi, which controlled n-Spheros. The end goal is to do long-exposure/time-lapse aerial photography of the n-spheros developing a mandala that mimics the one the user drew.
 
 ##### Additional:
 
-I'm big into hiking and surfing, these are things that are pretty much a staple if you live in Cape Town. and am playing a lot of golf lately.  It helps me get used to managing frustrations.
+I'm big into hiking and surfing, these are things that are pretty much a staple if you live in Cape Town, and play a lot of golf.  It helps me get used to managing frustration!
 
 - **Misc Certifications:**
 	- PADI Certified Advanced Diver, RSM Gr3 Drums, VW Driving Academy High Performance and Defensive Driving Certifications, Shakers IBT Certification
