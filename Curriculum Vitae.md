@@ -5,13 +5,13 @@
 * **Email Address**: stuartdhadfield at gmail dot com
 * [Website](https://www.stuarthadfield.com) & [blog](https://stuarthadfield.github.io)
 * Software Engineer
-* University of Cape Town Electrical & Computer Engineering Graduate
+* University of Cape Town [Electrical & Computer Engineering Graduate](http://www.ee.uct.ac.za/bachelor-science-engineering-electrical-and-computer-engineering)
 * Michaelhouse Old Boy
-* Delegate at the 2016 Brightest Young Minds Summit
+* Delegate at the 2016 [Brightest Young Minds Summit](http://bym.co.za/)
 
 #### About me:
 
-In short, I'm an alumnus of the University of Cape Town, who studied Electrical and Computer Engineering before pursuing a career in software development. I'm an old boy of Michaelhouse in the KwaZulu Natal Midlands, and a Zimbabwean expat. I'm a creative problem solver who enjoys a challenge, and I'm going to make a difference.
+In short, I'm an alumnus of the University of Cape Town, who studied Electrical and Computer Engineering before pursuing a career in software development. I'm an old boy of Michaelhouse in the KwaZulu-Natal Midlands, and a Zimbabwean expat. I'm a creative problem solver who enjoys a challenge, and I'm going to make a difference.
 
 #### Professional Career
 
@@ -35,7 +35,7 @@ I'm currently employed as a 'full stack engineer' at ZappiStore, a London based 
 
 * **Technical Positions Held**:
 	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  We achieved this through clever caching strategies, out of band computation, smart data transformation, SQL optimizations etc. Have given talks about some of this work @ conferences/meetups. (Python, Ruby, MySQL).  Team of 3 developers.
-	- **Pro Platform API Team**: Rewrote the backend of the pro platform API to be more performant, readable, sustainable etc.  There was a fair amount of tech debt as this API was built primarily during startup phase, which we needed to resolve. (Ruby on Rails, SQL). Team of 2 developers.
+	- **Pro Platform API Team**: Rewrote the backend of the pro platform API to be more performant, readable, maintainable etc.  There was a fair amount of tech debt as this API was built primarily during startup phase, which we needed to resolve. (Ruby on Rails, SQL). Team of 2 developers.
 	- **Tooling team**: Wrote various tools for devs to inspect and investigate data modelling, caching of data models etc. (Ruby on Rails, React).  Team of 2 developers.
 	- **Internationalization Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider. (Ruby on Rails, Angular, MySQL).  Team of 4 developers.
 	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof (Ruby on Rails, React, MySQL).  Team of 7 developers.
@@ -91,12 +91,13 @@ I was taken on as a junior engineer on the AHRLAC project during its prototyping
 
 * **Post University**
 	- Code4CT, course facilitator focusing on teaching girls from underprivileged backgrounds the fundamentals of computer science.  This happened on an adhoc basis depending on the organization's needs.
+	- Round Table, a non-political, non-denominational association of young men between the ages of 18 and 40 embracing representatives of nearly every profession and occupation, and whose objectives encompass the encouragement of high ethical standards. As a member of the CT9s, we endeavour to improve public welfare in the greater Cape Town area through a variety of community-based events, fundraisers etc.
 
 * **University of Cape Town**
-	- As a member of the surfing team/society, I helped facilitate outreach sessions every Friday/Saturday.  The aim of this was of course, to teach children from underprivileged backgrounds to surf, but moreover to discuss their aspirations, studying at university etc.
+	- As a member of the surfing team/society, I helped facilitate outreach sessions every Friday/Saturday.  The aim of this was of course, to teach children from underprivileged backgrounds to surf, but moreover to be someone with whom they may discuss their aspirations, what studying at university is like etc. Children from poorer communities in South Africa benefit hugely from the opportunity to broaden their mind and improve social awareness, so that was the main focus.
 
 * **Michaelhouse**
-	- Peter Brown Award for Community Service: Endeavoured to provide a basic music department for one of the local rural schools.
+	- Peter Brown Award for Community Service: Endeavoured to provide a basic music department for one of the local rural schools - Crystal Springs Primary.  Featured in local newspapers.
 	- SMILE Literacy Program, helping to improve the English literacy of Zulu speaking primary school children through reading/conversational exercises.
 
 </details>
