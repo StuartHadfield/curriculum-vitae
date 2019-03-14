@@ -127,9 +127,7 @@ I was taken on as a junior engineer on the AHRLAC project during its prototyping
 	- An experiment in IoT written in Javascript, whereby a simple HTML5 Mandala-drawing canvas was provided, input from the user was published to an AWS topic, and then read by a Raspberry Pi, which controlled n-Spheros. The end goal is to do long-exposure/time-lapse aerial photography of the n-spheros developing a mandala that mimics the one the user drew.
 
 ##### Additional:
-
-
-I'm big into hiking, surfing and Roark! these are things that are pretty much a staple if you live in Cape Town, and play a lot of golf.  It helps me get used to managing frustration!
+I'm big into hiking, surfing and Roark, these are things that are pretty much a staple if you live in Cape Town, and play a lot of golf.  It helps me get used to managing frustration!
 
 - **Misc Certifications:**
 	- PADI Certified Advanced Diver, RSM Gr3 Drums, VW Driving Academy High Performance and Defensive Driving Certifications, Shakers IBT Certification
