@@ -18,9 +18,9 @@ In short, I'm an alumnus of the University of Cape Town, who studied Electrical 
 <details>
   <summary>Work Experience Within 💻</summary>
 
-* [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - June 2020)
-* [ZappiStore](https://www.zappistore.com) - Software Development Engineer (July 2016 - June 2019)
-* [OfferZen Make](https://make.offerzen.com/) - Make Master (March 2017 - June 2019)
+* [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - July 2020)
+* [ZappiStore](https://www.zappistore.com) - Software Development Engineer (July 2016 - May 2019)
+* [OfferZen Make](https://make.offerzen.com/) - Make Master (March 2017 - May 2019)
 * [Aerosud](http://www.ahrlac.com/) - Junior Engineer (2015-2016)
 * Headquarters - Bartender (2014-2016)
 
