@@ -18,17 +18,18 @@ In short, I'm an alumnus of the University of Cape Town, who studied Electrical 
 <details>
   <summary>Work Experience Within 💻</summary>
 
+* [Globality](https://www.globality.com) - Software Development Engineer (July 2020 - Present)
 * [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - July 2020)
 * [ZappiStore](https://www.zappistore.com) - Software Development Engineer (July 2016 - May 2019)
 * [OfferZen Make](https://make.offerzen.com/) - Make Master (March 2017 - May 2019)
 * [Aerosud](http://www.ahrlac.com/) - Junior Engineer (2015-2016)
 * Headquarters - Bartender (2014-2016)
 
-**Tech Stack**:  
+**Tech Stack**:
 
 I have worked most extensively with the following technologies (list is non-exhaustive):
 
-- Languages: Ruby/Ruby on Rails, React, PHP, Python
+- Languages: Ruby/Ruby on Rails, Python, React, PHP
 - Infrastructure: K8s, Chef, Docker, Amazon Infra (S3, AWS, EC2 etc.), GCP, ELK
 - DBs: PostgresQL, MySQL
 
@@ -36,16 +37,23 @@ I am familiar with the following technologies:
 
 - Languages: C, C++, Rust, GoLang
 
-I am keen to work with technologies such as GoLang, Rust, and would like to further my experience in Python.
+I am keen to work with technologies such as GoLang, Rust, and would like to continue furthering my experience in Python.
 
-#### GoCardless (June 2019 - June 2020)
+#### Globality (July 2020 - Present)
 
-I'm currently employed as a Software Development Engineer at [GoCardless](www.gocardless.com), a London based technology company trying to solve the problems with recurring payments.
+Globality is a San Fran based unicorn, endeavouring to build a service procurement marketplace powered by AI/NLP. I was an early joiner of the rapidly growing London office.
+
+* **Technical Positions Held**:
+  - **London Feature Engineering**: I'm currently an engineer in the London Feature Engineering Team. We handle a lot of the "core business logic" style problems on the platform. The team maintains fundamental business problems, processes and models associated. Most of my time thus far has been spent re-engineering the part of the platform that handles user authorisation.
+
+#### GoCardless (June 2019 - July 2020)
+
+I was moved over to London by [GoCardless](www.gocardless.com), where I worked for just over a year, a London based technology company trying to solve the problems with recurring payments.
 
 ##### Roles + Responsibilities
 
 * **Technical Positions Held**:
-  - **Connect Team**: I currently form part of the Connect Team - which is responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator-GC is what this team of 6 takes care of.
+  - **Connect Team**: I was part of the Connect Team - which was responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator<->GC was what this team of 6 took care of.
 
 #### ZappiStore (2016 - June 2019)
 
@@ -92,10 +100,9 @@ I employed as a junior engineer on the AHRLAC project during its design & testin
   <summary>Education Within 🤓</summary>
 
 * [University of Cape Town](http://www.uct.ac.za/), B.Sc. Eng. (Hons), Electrical + Computer Engineering:
-	- Final Year Thesis Mark: 1st (75%+) - NeXtRAD Networked Tracking Pedestal Control System
+	- Final Year: 1st (75%+) - NeXtRAD Networked Tracking Pedestal Control System
 	- Leadership: Deputy Head Student of University House (Resigned)
 	- Course Representative for Computer Science, Physics
-
 
 * [Michaelhouse](https://www.michaelhouse.org/), Matric
 	- Marks Achieved: 6 Distinctions (English, Mathematics, Advanced Programme Mathematics, Physical Sciences, Computer Science, Engineering Design; 80%+), 2 Merits (French, Life Orientation; 70%+), nationally top 5% for English, Mathematics, Computer Science
@@ -150,7 +157,7 @@ I employed as a junior engineer on the AHRLAC project during its design & testin
 
 #### Additional:
 
-I'm big into hiking and surfing, these are things that are pretty much a staple if you live in Cape Town, and play a lot of golf.  It helps me get used to managing frustration!
+I'm a fairly active person, I row for Thames Rowing Club on Putney Embankment. If I'm not there, I'm on my bike cycling into the countryside.
 
 - **Misc Certifications:**
 	- PADI Certified Advanced Diver, RSM Gr3 Drums, VW Driving Academy High Performance and Defensive Driving Certifications, Shakers IBT Certification
