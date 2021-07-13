@@ -15,17 +15,17 @@ In short, I'm an alumnus of the University of Cape Town, who studied Electrical 
 
 ### Professional Career
 
-* [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - June 2020)
-* [ZappiStore](https://www.zappistore.com) - Software Development Engineer (July 2016 - June 2019)
+* [Globality](https://www.globality.com) - Software Development Engineer (July 2020 - Present)
+* [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - July 2020)
 * [OfferZen Make](https://make.offerzen.com/) - Make Master (March 2017 - June 2019)
 * [Aerosud](http://www.ahrlac.com/) - Junior Engineer (2015-2016)
 * Headquarters - Bartender (2014-2016)
 
-**Tech Stack**:  
+**Tech Stack**:
 
 I have worked most extensively with the following technologies (list is non-exhaustive):
 
-- Languages: Ruby/Ruby on Rails, React, PHP, Python
+- Languages: Ruby/Ruby on Rails, Python, React, PHP
 - Infrastructure: K8s, Chef, Docker, Amazon Infra (S3, AWS, EC2 etc.), GCP, ELK
 - DBs: PostgresQL, MySQL
 
@@ -33,15 +33,25 @@ I am familiar with the following technologies:
 
 - Languages: C, C++, Rust, GoLang
 
-I am keen to work with technologies such as GoLang, Rust, and would like to further my experience in Python.
+I am keen to work with technologies such as GoLang, Rust, and would like to continue furthering my experience in Python.
 
-#### GoCardless (June 2019 - June 2020)
+#### Globality (July 2020 - Present)
 
-I'm currently employed as a Software Development Engineer at [GoCardless](www.gocardless.com), a London based technology company trying to solve the problems with recurring payments.
+Globality is a San Fran based unicorn, endeavouring to build a service procurement marketplace powered by AI/NLP. I was an early joiner of the rapidly growing London office.
 
 ##### Roles + Responsibilities
 
-* **Technical Positions Held**:
+* **Technical**:
+  - **London Feature Engineering**: I'm currently an engineer in the London Feature Engineering Team. We handle a lot of the "core business logic" style problems on the platform. The team maintains fundamental business problems, processes and models associated. Most of my time thus far has been spent re-engineering the part of the platform that handles user authorisation.
+
+* **Non Technical**:
+  - Outside of "strict" engineering disciplines, I'm heavily involved in some more strategic/process aspects, such as:
+	- Interviewing: I've been lucky enough to be able to step in and lead a few of our interview rounds, which is something I really enjoy doing - as well as teaching other engineers to do.
+	- RCA review committee: I care quite a lot about learning from mistakes, and this is a process I have worked hard to revamp at Globality. As such, I'm part of the group of preliminary reviewers of any and all RCAs that arise.
+
+##### Roles + Responsibilities
+
+* **Technical**:
   - **Connect Team**: I currently form part of the Connect Team - which is responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator-GC is what this team of 6 takes care of.
 
 #### ZappiStore (2016 - June 2019)
@@ -50,14 +60,14 @@ For three years I worked at [ZappiStore](www.zappi.io), a London based tech comp
 
 ##### Roles + Responsibilities
 
-* **Technical Positions Held**:
+* **Technical**:
 	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  We achieved this through clever caching strategies, out of band computation, smart data transformation, SQL optimizations etc. Have given talks about some of this work @ conferences/meetups. Team of 3 developers.
 	- **Pro Platform API Team**: Rewrote the backend of the pro platform API to be more performant, readable & maintainable.  There was a fair amount of tech debt as this API was built primarily during startup phase, which we needed to resolve. Team of 2 developers.
 	- **Tooling team**: Wrote various tools for devs to inspect and investigate data modelling, caching of data models etc. (Ruby on Rails, React).  Team of 2 developers.
 	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider. Team of 4 developers.
 	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.  Team of 7 developers.
 
-* **Non Technical Positions Held**:
+* **Non Technical**:
 	- **Technical Interviewer**: I acted as a technical interviewer for ZappiStore, interviewing candidates for engineering positions.
 	- **Cultural Interviewer**: I wrote our company handbook, which is used as a reference and introduction for new joiners and employees.  As such, I was involved in phase 2 of many interviews, which was focused on assessing cultural fit of candidates.
 	- **Onboarding**: I crafted a lot of our training material for developers, which has been used to help get junior/senior devs alike up to speed on the company's tech stack.
@@ -132,7 +142,7 @@ I employed as a junior engineer on the AHRLAC project during its design & testin
 
 #### Additional:
 
-I'm big into hiking and surfing, these are things that are pretty much a staple if you live in Cape Town, and play a lot of golf.  It helps me get used to managing frustration!
+I'm a fairly active person, I row for Thames Rowing Club on Putney Embankment. If I'm not there, I'm on my bike cycling into the countryside.
 
 - **Misc Certifications:**
 	- PADI Certified Advanced Diver, RSM Gr3 Drums, VW Driving Academy High Performance and Defensive Driving Certifications, Shakers IBT Certification
