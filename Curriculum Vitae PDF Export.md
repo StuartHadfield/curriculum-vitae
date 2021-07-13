@@ -52,7 +52,10 @@ Globality is a San Fran based unicorn, endeavouring to build a service procureme
 ##### Roles + Responsibilities
 
 * **Technical**:
-  - **Connect Team**: I currently form part of the Connect Team - which is responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator-GC is what this team of 6 takes care of.
+  - **Connect Team**: I was part of the Connect Team - which was responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator<->GC was what this team of 6 took care of. Notably:
+	- Instalment Schedules implementation
+	- Lead platform migration from ES5 to ES7
+	- Lead smart, credit-based refund initiative
 
 #### ZappiStore (2016 - June 2019)
 
@@ -61,11 +64,9 @@ For three years I worked at [ZappiStore](www.zappi.io), a London based tech comp
 ##### Roles + Responsibilities
 
 * **Technical**:
-	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  We achieved this through clever caching strategies, out of band computation, smart data transformation, SQL optimizations etc. Have given talks about some of this work @ conferences/meetups. Team of 3 developers.
-	- **Pro Platform API Team**: Rewrote the backend of the pro platform API to be more performant, readable & maintainable.  There was a fair amount of tech debt as this API was built primarily during startup phase, which we needed to resolve. Team of 2 developers.
-	- **Tooling team**: Wrote various tools for devs to inspect and investigate data modelling, caching of data models etc. (Ruby on Rails, React).  Team of 2 developers.
-	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider. Team of 4 developers.
-	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.  Team of 7 developers.
+	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  Have given talks about some of this work @ conferences/meetups.
+	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider.
+	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.
 
 * **Non Technical**:
 	- **Technical Interviewer**: I acted as a technical interviewer for ZappiStore, interviewing candidates for engineering positions.

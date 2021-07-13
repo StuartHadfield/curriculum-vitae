@@ -43,8 +43,14 @@ I am keen to work with technologies such as GoLang, Rust, and would like to cont
 
 Globality is a San Fran based unicorn, endeavouring to build a service procurement marketplace powered by AI/NLP. I was an early joiner of the rapidly growing London office.
 
-* **Technical Positions Held**:
+* **Technical**:
   - **London Feature Engineering**: I'm currently an engineer in the London Feature Engineering Team. We handle a lot of the "core business logic" style problems on the platform. The team maintains fundamental business problems, processes and models associated. Most of my time thus far has been spent re-engineering the part of the platform that handles user authorisation.
+
+
+* **Non Technical**:
+  - Outside of "strict" engineering disciplines, I'm heavily involved in some more strategic/process aspects, such as:
+	- Interviewing: I've been lucky enough to be able to step in and lead a few of our interview rounds, which is something I really enjoy doing - as well as teaching other engineers to do.
+	- RCA review committee: I care quite a lot about learning from mistakes, and this is a process I have worked hard to revamp at Globality. As such, I'm part of the group of preliminary reviewers of any and all RCAs that arise.
 
 #### GoCardless (June 2019 - July 2020)
 
@@ -52,8 +58,11 @@ I was moved over to London by [GoCardless](www.gocardless.com), where I worked f
 
 ##### Roles + Responsibilities
 
-* **Technical Positions Held**:
-  - **Connect Team**: I was part of the Connect Team - which was responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator<->GC was what this team of 6 took care of.
+* **Technical**:
+  - **Connect Team**: I was part of the Connect Team - which was responsible for a remit known as the Developer Platform. GoCardless has many external partners connecting to its service - and all things integrator<->GC was what this team of 6 took care of. Notably:
+	- Instalment Schedules implementation
+	- Lead platform migration from ES5 to ES7
+	- Lead smart, credit-based refund initiative
 
 #### ZappiStore (2016 - June 2019)
 
@@ -61,14 +70,12 @@ For three years I worked at [ZappiStore](www.zappi.io), a London based tech comp
 
 ##### Roles + Responsibilities
 
-* **Technical Positions Held**:
-	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  We achieved this through clever caching strategies, out of band computation, smart data transformation, SQL optimizations etc. Have given talks about some of this work @ conferences/meetups. Team of 3 developers.
-	- **Pro Platform API Team**: Rewrote the backend of the pro platform API to be more performant, readable & maintainable.  There was a fair amount of tech debt as this API was built primarily during startup phase, which we needed to resolve. Team of 2 developers.
-	- **Tooling team**: Wrote various tools for devs to inspect and investigate data modelling, caching of data models etc. (Ruby on Rails, React).  Team of 2 developers.
-	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider. Team of 4 developers.
-	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.  Team of 7 developers.
+* **Technical**:
+	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  Have given talks about some of this work @ conferences/meetups.
+	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider.
+	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.
 
-* **Non Technical Positions Held**:
+* **Non Technical**:
 	- **Technical Interviewer**: I acted as a technical interviewer for ZappiStore, interviewing candidates for engineering positions.
 	- **Cultural Interviewer**: I wrote our company handbook, which is used as a reference and introduction for new joiners and employees.  As such, I was involved in phase 2 of many interviews, which was focused on assessing cultural fit of candidates.
 	- **Onboarding**: I crafted a lot of our training material for developers, which has been used to help get junior/senior devs alike up to speed on the company's tech stack.
