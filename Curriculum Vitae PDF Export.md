@@ -4,7 +4,7 @@
 * **Location**: London, United Kingdom
 * **Email Address**: stuartdhadfield at gmail dot com
 * [Website](https://www.stuarthadfield.com)
-* Software Engineer
+* Senior Software Engineer
 * University of Cape Town [Electrical & Computer Engineering Graduate](http://www.ee.uct.ac.za/bachelor-science-engineering-electrical-and-computer-engineering)
 * Michaelhouse Old Boy
 * Delegate at the 2016 [Brightest Young Minds Summit](http://bym.co.za/)
@@ -15,8 +15,9 @@ In short, I'm an alumnus of the University of Cape Town, who studied Electrical 
 
 ### Professional Career
 
-* [Globality](https://www.globality.com) - Software Development Engineer (July 2020 - Present)
+* [Globality](https://www.globality.com) - Senior Software Development Engineer (July 2020 - Present)
 * [GoCardless](https://www.gocardless.com) - Software Development Engineer (June 2019 - July 2020)
+* [ZappiStore](https://www.zappistore.com) - Software Development Engineer (July 2016 - May 2019)
 * [OfferZen Make](https://make.offerzen.com/) - Make Master (March 2017 - June 2019)
 * [Aerosud](http://www.ahrlac.com/) - Junior Engineer (2015-2016)
 * Headquarters - Bartender (2014-2016)
@@ -26,8 +27,8 @@ In short, I'm an alumnus of the University of Cape Town, who studied Electrical 
 I have worked most extensively with the following technologies (list is non-exhaustive):
 
 - Languages: Ruby/Ruby on Rails, Python, React, PHP
-- Infrastructure: K8s, Chef, Docker, Amazon Infra (S3, AWS, EC2 etc.), GCP, ELK
-- DBs: PostgresQL, MySQL
+- Infrastructure: K8s, Chef, Docker, Amazon Infra (EKS, ECS, S3, EC2, SNS/SQS, SES etc.), GCP, ELK
+- DBs: PostgreSQL, MySQL
 
 I am familiar with the following technologies:
 
@@ -42,12 +43,20 @@ Globality is a San Fran based unicorn, endeavouring to build a service procureme
 ##### Roles + Responsibilities
 
 * **Technical**:
-  - **London Feature Engineering**: I'm currently an engineer in the London Feature Engineering Team. We handle a lot of the "core business logic" style problems on the platform. The team maintains fundamental business problems, processes and models associated. Most of my time thus far has been spent re-engineering the part of the platform that handles user authorisation.
+  - **London Feature Engineering**: I'm currently an engineer in the London Feature Engineering Team. We handle a lot of the "core business logic" style problems on the platform. The team maintains fundamental business problems, processes and models associated. Notably:
+    - Led the rearchiteture of the authorization paradigm on platform, from RBAC to ABAC, backed by OPA.
+    - Led the development of a solution for managing Auth0 tenants as code. Used Harness, EKS, Helm Charts, Terraform.
+    - Led a few other platform-specific projects that require a bit of context - I'm happy to speak to these!
+
 
 * **Non Technical**:
   - Outside of "strict" engineering disciplines, I'm heavily involved in some more strategic/process aspects, such as:
-	- Interviewing: I've been lucky enough to be able to step in and lead a few of our interview rounds, which is something I really enjoy doing - as well as teaching other engineers to do.
+	- Interviewing: Whilst conducting interviews myself, I've also worked hard to streamline our interviewing process, including the structure of interviews, their contents, how we rotate interviewers to maintain a fair baseline for candidates, and training of other potential interviewers.
 	- RCA review committee: I care quite a lot about learning from mistakes, and this is a process I have worked hard to revamp at Globality. As such, I'm part of the group of preliminary reviewers of any and all RCAs that arise.
+
+#### GoCardless (June 2019 - July 2020)
+
+I was moved over to London by [GoCardless](www.gocardless.com), where I worked for just over a year, a London based technology company trying to solve the problems with recurring payments.
 
 ##### Roles + Responsibilities
 
@@ -65,7 +74,7 @@ For three years I worked at [ZappiStore](www.zappi.io), a London based tech comp
 
 * **Technical**:
 	- **Performance team**: Focused on improving performance of platform, more than halved the load times of the main reporting platform functions.  Have given talks about some of this work @ conferences/meetups.
-	- **Internationalisation Team**: Lead developer on a project that involved automating the provision of translations to survey responses for clients to and from languages of their choosing through an external provider.
+	- **Internationalisation Team**: Lead developer on a project that involved automating the localisation of the platform and contents generated therein.
 	- **Sampling Team**: Lead developer on various projects relating to sample acquisition and management thereof.
 
 * **Non Technical**:
